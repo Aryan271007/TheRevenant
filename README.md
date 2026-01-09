@@ -1,10 +1,10 @@
-Controls: 
-a/d: left/right movement 
-spacebar- jump 
-j - attack 
-esc - Pause
+**Controls:**
+- a/d: left/right movement 
+- spacebar- jump 
+- j - attack 
+- esc - Pause
 
-Assets used:
+**Assets used:**
 
 1. 2D Player
 2. Mighty Heroes (Rogue) 2D Fantasy Characters Pack
